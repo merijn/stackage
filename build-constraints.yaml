@@ -3904,6 +3904,11 @@ packages:
     "Elben Shira <elben@shira.im> @elben":
         - pencil
 
+    "Merijn Verstraaten <merijn@inconsistent.nl> @merijn":
+        - broadcast-chan
+        - broadcast-chan-conduit
+        - broadcast-chan-tests
+
     "Grandfathered dependencies":
         - Boolean
         - ChasingBottoms < 0 # due to QuickCheck, https://github.com/commercialhaskell/stackage/issues/4444
